@@ -87,6 +87,9 @@ Thus, it is necessary to carry out data standardisation and apply relevant techn
     <img src="images/Figure 1-4.png" alt="Figure 1-4">
 </div>
 <div align="center">
+    <img src="images/Figure 1-4-2.png" alt="Figure 1-4-2">
+</div>
+<div align="center">
     <h4> Figure 1.4 Screenshot of Dataset after Data Standardisation </br></h4>
 </div>
 
@@ -98,6 +101,9 @@ This approach involves generating new data by inferring from existing data. Inst
 
 <div align="center">
     <img src="images/Figure 1-5.png" alt="Figure 1-5">
+</div>
+<div align="center">
+    <img src="images/Figure 1-5-2.png" alt="Figure 1-5-2">
 </div>
 <div align="center">
     <h4> 
