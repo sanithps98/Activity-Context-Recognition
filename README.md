@@ -155,7 +155,7 @@ Figure 3.1 Table showing the performance metrics of the 3 algorithms</br></h4>
 
 Based on the results of the above model performances, it can be inferred that Random Forest Classifiers have performed the best following feature selection and the implementation of the SMOTE technique. As a result, the target variable in this classification problem can be predicted with exceptional accuracy of 100%. 
 
-### CONCLUSION & RECOMMENDATIONS 
+### Conclusion & Recommendations
 
 The project aimed to improve the understanding of various data analytics and visualization libraries used during Exploratory Data Analysis (EDA) for classification purposes. It also focused on dealing with unbalanced datasets by eliminating null values, data standardization, and other techniques to balance it. This resulted in finding and combining different attributes/features and applying various machine learning algorithms to predict the target/output. The context recognition based on sensor data is challenging, especially when there are a variety of machine learning techniques. Human behavior is not only natural and spontaneous, but also humans may perform several activities at the same time or even carry out some unrelated activities. Therefore, it is advised that ACR systems should be designed in such a way that they identify concurrent activities, predict the speed of movement, and deal with uncertainties to achieve high accuracy and improve functionality, quality, and safety in their various applications across industries.
 
